@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project on what is associated with individual health insurance charges: exploratory analysis, statistical testing, interaction analysis, predictive modelling and an interactive Streamlit dashboard.
 
-**[Live dashboard →](YOUR-STREAMLIT-LINK)** 
+**[Live dashboard →]([YOUR-STREAMLIT-LINK](https://us-health-insurance-cost-analysis-predictive-modelling-cmxk4xg.streamlit.app/))** 
 **[Analysis notebook →](notebook/US_health_insurance_analysis.ipynb)**
 
 ## At a glance
