@@ -2,7 +2,8 @@
 
 An end-to-end data analytics project on what is associated with individual health insurance charges: exploratory analysis, statistical testing, interaction analysis, predictive modelling and an interactive Streamlit dashboard.
 
-**[[Live dashboard →]([YOUR-STREAMLIT-LINK](https://us-health-insurance-cost-analysis-predictive-modelling-cmxk4xg.streamlit.app/))](https://us-health-insurance-cost-analysis-predictive-modelling-cmxk4xg.streamlit.app/)** 
+**[Streamlit Dashboard Link →] (https://us-health-insurance-cost-analysis-predictive-modelling-cmxk4xg.streamlit.app/)**
+
 **[Analysis notebook →](notebook/US_health_insurance_analysis.ipynb)**
 
 ## At a glance
@@ -240,3 +241,12 @@ US-Health-Insurance-Analysis/
 
 Smoking status had the largest observed difference in insurance charges in this dataset, and BMI is associated with higher charges mainly for smokers. Regional differences are statistically significant but small, and largely reflect differences in smoking and BMI. The Random Forest reaches R² = 0.874 on held-out data, while its largest errors show the limits of predicting individual charges from a few demographic and lifestyle variables.
 
+# 👩‍💻 Author
+Siti Sarah Binti Mohd Affandi
+
+MSc Operational Research and Analytics
+
+Aspiring Data Analyst
+
+# GitHub:
+[https://github.com/saraaffandi-design](https://github.com/saraaffandi-design)
