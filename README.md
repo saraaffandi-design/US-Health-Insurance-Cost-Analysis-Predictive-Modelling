@@ -4,8 +4,6 @@ An end-to-end data analytics project on what is associated with individual healt
 
 **[Streamlit Dashboard Link →] (https://us-health-insurance-cost-analysis-predictive-modelling-cmxk4xg.streamlit.app/)**
 
-**[Analysis notebook →](notebook/US_health_insurance_analysis.ipynb)**
-
 ## At a glance
 
 - **Smokers are charged about 3.8× more** than non-smokers on average ($32,050 vs $8,434, p < 0.001).
