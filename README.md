@@ -2,7 +2,8 @@
 
 An end-to-end data analytics project on what is associated with individual health insurance charges: exploratory analysis, statistical testing, interaction analysis, predictive modelling and an interactive Streamlit dashboard.
 
-**[Live dashboard →](YOUR-STREAMLIT-LINK)** · **[Analysis notebook →](notebook/US_health_insurance_analysis.ipynb)**
+**[Live dashboard →](YOUR-STREAMLIT-LINK)** 
+**[Analysis notebook →](notebook/US_health_insurance_analysis.ipynb)**
 
 ## At a glance
 
@@ -153,7 +154,7 @@ The findings are presented as an interactive dashboard, organised as a story: **
 - The fitted BMI × smoking model over the raw data, plus charges by BMI category.
 - Model metrics, actual vs predicted, and feature importance.
 - A prediction tool that returns an estimate, a typical range, and a smoker vs non-smoker what-if.
-- 
+
 <img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/374d201b-3400-4b1c-a200-40b4af7ba265" />
 
 ---
